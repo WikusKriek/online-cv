@@ -14,15 +14,15 @@ sidebar:
     # Sidebar links
     email: wikus.kriek.2w@gmail.com
     phone: 083 274 3002
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    website: studenthive.app
+    linkedin: wikus-kriek-8b1433147
+    github: WikusKriek
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: users/Wikus
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
@@ -39,6 +39,9 @@ sidebar:
         link:
 
       - item: Beekeeping
+        link:
+        
+      - item: Building Apps
         link:
 
       - item: Ultimate Frisbee
@@ -69,17 +72,9 @@ education:
 experiences:
     - role: Lead Developer
       time: 2019 - Present
-      company: Startup Hubs, San Francisco
+      company: Student Hive
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Student Hive App is a project I started by myself in 2019. I wanted to write my own application while also making something useful in my everyday life. I decided to write an application that would help me manage my university life. I decided to build a web application so that I could use it on my computer as well as my phone from anywhere with any device.  When the first version was completed it was so helpful and simple to use I decided to make the application available to everyone and host it on google cloud services.
           - Bullet point
           - Bullet point
     - role: Senior Software Engineer

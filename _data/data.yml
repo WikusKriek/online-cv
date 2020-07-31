@@ -70,16 +70,28 @@ education:
           - Bullet point
     
 experiences:
-    - role: Lead Developer
+    - role: Full Stack Developer
       time: 2019 - Present
-      company: Student Hive
+      company: Student Hive, South Africa
       details: |
-        Student Hive App is a project I started by myself in 2019. I wanted to write my own application while also making something useful in my everyday life. I decided to write an application that would help me manage my university life. I decided to build a web application so that I could use it on my computer as well as my phone from anywhere with any device.  When the first version was completed it was so helpful and simple to use I decided to make the application available to everyone and host it on google cloud services.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Student Hive App is a project I started by myself in 2019. 
+        I wanted to write my own application while also making something useful in my everyday life.
+        I decided to write an application that would help me manage my university life. 
+        I decided to build a web application so that I could use it on my computer as well
+        as my phone from anywhere with any device.  When the first version was completed it was 
+        so helpful and simple to use I decided to make the application available to everyone and host it
+        on google cloud services. The app now has more than 1.4K users and is still gaining users daily.
+        The skills I aquired by working on this project is a s follows:
+          - Vurtual machine hosting
+          - SSL certificates and Domain name management
+          - Github version controll
+          - JavaScript, HTML and CSS
+          - Linux, Apache, MySQL and PHP
+          - Framework7, AdobeXD and Google cloud analytics
+          - Service worker management
+    - role: Technical Team
+      time: 2017 - 2019
+      company: NWU Solar Car Team, South Africa
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -88,9 +100,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Engineering Vacation Work
+      time: 2018 - 2020
+      company: Jericho Systems, Potchefstroom
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.

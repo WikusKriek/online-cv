@@ -41,9 +41,12 @@ sidebar:
       - item: Beekeeping
         link:
         
-      - item: Building Apps
+      - item: App Development
         link:
 
+      - item: Machine Learning
+        link:
+        
       - item: Ultimate Frisbee
         link:
 

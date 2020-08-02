@@ -22,7 +22,7 @@ sidebar:
     bitbucket:
     twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars: users/Wikus
+    codewars: Wikus
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
@@ -50,12 +50,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Final year Computer and Electronic Engineering student passionate about mobile/web development and machine learning.
+      Proven project full satck developer, having completed many Senior class projects. Proficient in  a range of modern technologies including Python, JavaScript and HTML. 
 education:
     - degree: BEng Computer and Electronics
       university: North West University
@@ -82,7 +78,7 @@ experiences:
         so helpful and simple to use I decided to make the application available to everyone and host it
         on google cloud services. The app now has more than 1.4K users and is still gaining users daily.
         The skills I aquired by working on this project is a s follows:
-          - Vurtual machine hosting
+          - Virtual machine hosting
           - SSL certificates and Domain name management
           - Github version controll
           - JavaScript, HTML and CSS
@@ -93,13 +89,15 @@ experiences:
       time: 2017 - 2019
       company: NWU Solar Car Team, South Africa
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        During my first year being part of the solar car team I was part of the building team.
+        I did mostly physical work on the car alongside a team of student engineers. In 2018
+        I had the oppertunity to be part of The technical team and also to acompany the car on
+        its biannual Sasaol solar challenge in South Africa. During the race I was in charge of
+        the battery pack and electronic maintenance of the car.
+        Specialized in:
+          - Carbon Fiber work
+          - Battery pack management
+          - Battery charecterization
     - role: Engineering Vacation Work
       time: 2018 - 2020
       company: Jericho Systems, Potchefstroom
@@ -164,22 +162,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 92%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: PHP & MySQL
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Javascript
+        level: 75%
+
+      - name: HTML5 & CSS
+        level: 80%
+
+      - name: C
+        level: 65%
+
+      - name: AdobeXD & Photoshop
         level: 60%
 
 footer: >

@@ -51,7 +51,7 @@ career-profile:
     title: Career Profile
     summary: |
       Final year Computer and Electronic Engineering student passionate about mobile/web development and machine learning.
-      Proven project full satck developer, having completed many Senior class projects. Proficient in  a range of modern technologies including Python, JavaScript and HTML. 
+      Proven project full stack developer, having completed many Senior class projects. Proficient in a range of modern technologies including Python, JavaScript and HTML. 
 education:
     - degree: BEng Computer and Electronics
       university: North West University
@@ -77,10 +77,10 @@ experiences:
         as my phone from anywhere with any device.  When the first version was completed it was 
         so helpful and simple to use I decided to make the application available to everyone and host it
         on google cloud services. The app now has more than 1.4K users and is still gaining users daily.
-        The skills I aquired by working on this project is a s follows:
+        The skills I acquired by working on this project is a s follows:
           - Virtual machine hosting
           - SSL certificates and Domain name management
-          - Github version controll
+          - GitHub version control
           - JavaScript, HTML and CSS
           - Linux, Apache, MySQL and PHP
           - Framework7, AdobeXD and Google cloud analytics
@@ -91,24 +91,27 @@ experiences:
       details: |
         During my first year being part of the solar car team I was part of the building team.
         I did mostly physical work on the car alongside a team of student engineers. In 2018
-        I had the oppertunity to be part of The technical team and also to acompany the car on
-        its biannual Sasaol solar challenge in South Africa. During the race I was in charge of
+        I had the opportunity to be part of the technical team and to accompany the car on
+        its biannual Sasol solar challenge in South Africa. During the race I was in charge of
         the battery pack and electronic maintenance of the car.
         Specialized in:
-          - Carbon Fiber work
+          - Carbon Fibre work
           - Battery pack management
-          - Battery charecterization
+          - Battery characterization
     - role: Engineering Vacation Work
       time: 2018 - 2020
       company: Jericho Systems, Potchefstroom
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I completed vacation work at Jerico System where I gained experience inside an 
+        engineering company. During my time working for Jerico systems I helped develop a 
+        magnetic encoder, a machine learning model for face quality assessment and various 
+        other smaller tasks.
+        Specialized in:
+          - Machine Learning
+          - Python & C++
+          - Linux
+          - FreeCAD modelling
+          - Product research
 projects:
     title: Projects
     intro: >
@@ -168,17 +171,17 @@ skills:
       - name: PHP & MySQL
         level: 85%
 
-      - name: Javascript
-        level: 75%
+      - name: JavaScript
+        level: 80%
 
       - name: HTML5 & CSS
         level: 80%
 
-      - name: C
+      - name: C & C++
         level: 65%
 
       - name: AdobeXD & Photoshop
-        level: 60%
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

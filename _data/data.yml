@@ -27,10 +27,10 @@ sidebar:
 
     languages:
       - idiom: Afrikaans
-        level: Native
+        level: Home language
 
       - idiom: English
-        level: Professional
+        level: First Additional
 
       
 
@@ -55,7 +55,7 @@ career-profile:
 education:
     - degree: BEng Computer and Electronics
       university: North West University
-      time: 2015 - 2020
+      time: 2015 - 2020 <a href="username.github.io/folder/document.pdf" target="_blank">Academic Record</a>
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
